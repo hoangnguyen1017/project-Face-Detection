@@ -1,3 +1,2 @@
-pycache/
-/pass-system
-
+/pycache/*
+/pass-system/*
